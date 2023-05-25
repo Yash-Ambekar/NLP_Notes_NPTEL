@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "e28e106f10e3d8a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb92b89e7cd6b97d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a872fd841a328b2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 2/Evaluation of Language Models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66e8db6644d94907",
+    "type": "split",
+    "children": [
+      {
+        "id": "e74427d9e9a8a0d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a423593af8d18d78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4851fd5b323bab28",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e051f6faf9d037a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ebb8c0e95080bbee",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4939614bdfc700c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dea49ce9c11fd8be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Week 2/Evaluation of Language Models.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce0616a61d171922",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Week 2/Evaluation of Language Models.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a8345a90c4efe70",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "26ee941fe510c7c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Week 2/Evaluation of Language Models.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a872fd841a328b2d",
+  "lastOpenFiles": [
+    "Week 2/Edit Distance.md",
+    "Week 3/Advanced Smoothing Models.md",
+    "Week 2/Spelling Correction.md",
+    "Week 2/Smoothing.md",
+    "Week 3",
+    "Assets/Pasted image 20230525134153.png",
+    "Week 2/Evaluation of Language Models.md",
+    "Pasted image 20230525133615.png",
+    "Assets/1 WNyDJ177qNDAkTPBDCGCYw.webp",
+    "Assets/Pasted image 20230525133225.png",
+    "Assets/Pasted image 20230525133000.png",
+    "Assets/Pasted image 20230525131430.png",
+    "Assets/Pasted image 20230525131001.png",
+    "Assets/Pasted image 20230525130612.png",
+    "Assets/Pasted image 20230525122830.png",
+    "Assets/Pasted image 20230525122545.png",
+    "Week 2/N-Gram Language Models.md",
+    "Week 2/Noisy Channel Model.md",
+    "Assets",
+    "Pasted image 20230522182428.png.md",
+    "Week 2/Spelling Errors.md",
+    "Pasted image 20230522134338.png.md",
+    "Week 2/Weighted Edit Distance.md",
+    "Week 1 Introduction/Untitled.md",
+    "Week 2",
+    "Week 1 Introduction"
+  ]
+}

@@ -1,0 +1,80 @@
+
+**Goal** : Compute the probabability of a sentence or sequence of words.  P(W) = P(w1, w2, w3,..., wn)
+**Related Task:**  Probability of an upcoming word - -> P(w4 | w1, w2, w3).
+
+-   A model that computes either of these is called a language model.
+
+![[Pasted image 20230523130704.png]]![[Pasted image 20230523130934.png]]
+![[Pasted image 20230523131027.png]]
+![[Pasted image 20230523131126.png]]
+**Note:**  Too many words lead to lesser chances of seeing such combination of words in the corpus.
+
+Better Option is to make a simplifying assumption of using only the previous word or couple of previous words instead of the whole sentence.
+
+![[Pasted image 20230523131646.png]]
+
+We can also use the **Markov Assumption** to only consider  `k`  previous words.
+
+![[Pasted image 20230523131854.png]]
+
+
+-  An N-Gram model uses only N - 1 words of prior context.
+	- Unigram:  P(office) 
+	- Bigram:  P(office | from)
+	- Trigram:  P(office | minutes from)
+- So an N-Gram model is an N - 1 order Markov Model.
+
+-  In general, we **cannot** say that any N-gram model is sufficient  model for  a  language because language has long-distance dependencies: "The computer which I had just put into the machine room  on the fifth floor **crashed**". 
+-  Here the word "crashed" is in context with the word "computer" which is not covered by trigram, 4-gram, 5-gram models as it is 12  words away from "crashed".
+- I most of the applications, we can get away with N-gram models.
+
+
+-  We can calculate these N-gram probabilities by :
+  ![[Pasted image 20230523133259.png]]
+
+**count(w i-1, wi)**   or  **c(w i-1, wi)** --> No of times wi occured in the corpus after w i-1 .
+**count(w i-1)**  or  **c(w i-1)** --> No of times w i-1 occured in the corpus.
+
+Example:
+-  Bigrams frequency
+![[Pasted image 20230523141607.png]]
+
+-  Unigram frequency
+![[Pasted image 20230523141717.png]]
+
+-  Bigram Probabilities
+![[Pasted image 20230523141802.png]]
+
+Now if I have a sentence  "I want english food " then the probability of this sequence of words occuring in corpus  will be 
+![[Pasted image 20230523142021.png]]
+
+
+
+### What knowledge does N-gram represent?
+
+-  It can represent various patterns related to the domain of the corpus or the language grammar.
+  
+  For eg:
+  ![[Pasted image 20230523142355.png]] 
+  
+  Here we can make an observation that Chinese food is 6 times more popular than the English food as per the corpus.  We can also see that  the probability of "to" occuring after "want" is pretty high which is logical because we often say "We want to", "I want to", "They want to" etc.
+
+
+#### Practical Issues
+
+-  Underflow
+  we are multiplying probability values and those value lie between 0 and  1,  which can cause  value underlfow i.e the final value will be very close to zero.
+  *Solution:*  Compute and add value in Log space and anyways addition is much faster than multiplication.
+  ![[Pasted image 20230523143302.png]]
+  
+-  Zeroes in  N-gram occurrence table
+There may be words in the bigram that do not occur therefore the frequency value is zero but then the probability value will also come out to be zero in turn setting the probabilty of that whole sentence to  zero .	
+*Solution:*  Use smoothing
+
+
+##### Toolkit for language modelling - SRILM
+##### Large Corpus - Google N-grams
+You can use this corpus to even analyse the popularity of a word from temporal aspect.
+
+
+
