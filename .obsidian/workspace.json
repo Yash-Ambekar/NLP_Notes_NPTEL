@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 2/Evaluation of Language Models.md",
+                "file": "Week 3/Advanced Smoothing Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 2/Evaluation of Language Models.md",
+                "file": "Week 3/Advanced Smoothing Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 2/Evaluation of Language Models.md",
+                "file": "Week 3/Advanced Smoothing Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 2/Evaluation of Language Models.md"
+                "file": "Week 3/Advanced Smoothing Models.md"
               }
             }
           }
@@ -148,22 +148,23 @@
   },
   "active": "a872fd841a328b2d",
   "lastOpenFiles": [
-    "Week 2/Edit Distance.md",
+    "Assets/Pasted image 20230528154440.png",
+    "Assets/Pasted image 20230528154308.png",
+    "Assets/Pasted image 20230528153933.png",
+    "Assets/Pasted image 20230528153831.png",
     "Week 3/Advanced Smoothing Models.md",
+    "Assets/Pasted image 20230528153649.png",
+    "Assets/Pasted image 20230528152009.png",
+    "Assets/Pasted image 20230528145855.png",
+    "Assets/Pasted image 20230528143959.png",
+    "Week 2/Evaluation of Language Models.md",
+    "Week 2/Edit Distance.md",
     "Week 2/Spelling Correction.md",
     "Week 2/Smoothing.md",
     "Week 3",
     "Assets/Pasted image 20230525134153.png",
-    "Week 2/Evaluation of Language Models.md",
     "Pasted image 20230525133615.png",
     "Assets/1 WNyDJ177qNDAkTPBDCGCYw.webp",
-    "Assets/Pasted image 20230525133225.png",
-    "Assets/Pasted image 20230525133000.png",
-    "Assets/Pasted image 20230525131430.png",
-    "Assets/Pasted image 20230525131001.png",
-    "Assets/Pasted image 20230525130612.png",
-    "Assets/Pasted image 20230525122830.png",
-    "Assets/Pasted image 20230525122545.png",
     "Week 2/N-Gram Language Models.md",
     "Week 2/Noisy Channel Model.md",
     "Assets",

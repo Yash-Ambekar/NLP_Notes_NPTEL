@@ -1,1 +1,95 @@
 
+1. Good Turing Smoothing
+2. Kneser Ney Smoothing
+
+
+### Good Turing Smoothing
+
+-  <font color = "green">Basic intuition</font> ---> Use the count of things we have seen once to help estimate the count of the things we have never seen.
+-  Idea is to reallocate the probability mass of N-grams that occur  $r +1$  times in the training data to the N-grams that occur  $r$  times.
+- In particular, reallocate the probability mass of N-grams that were seen once to the N-grams that were never seen.
+
+
+#### Explanation:
+
+**N$_0$** ---> N-gram never seen in training set.
+**N$_1$**  ---> N-gram seen once in training set.
+.
+.
+.
+**N$_c$** ---> N-gram seen  $c$  times in training set.
+**N$_c$$_+$$_1$** ---> N-gram seen  $c+1$  times in training set.
+
+
+-  We are going to steal the probability mass of N-grams seen  $c + 1$  times and add it to probability mass of N-grams seen  $c$  times
+
+
+Probability mass of N-grams seen  $c + 1$  times  $$ = \frac {(c + 1) . N_{c+1} }{N} $$
+Divide the probability mass over N-grams seen  $c$   times $$ = \frac {(c + 1) . N_{c+1} }{N. N_c} $$
+
+Probability of N-gram seen  $c$  times
+$$ \frac{C^*}{N} = \frac {(c + 1) . N_{c+1} }{N .N_c} $$
+
+
+The Effective count after this reallocation is $$ C^* = \frac {(c + 1) . N_{c+1} }{N_c} $$
+
+
+$N$---> Total number of N-grams in training set.
+
+
+for   $c = 0$
+$$P(N-grams-which-are-never-seen) = \frac {N_1}{N} $$
+-  This is the probability mass that the N-grams that never occurred will get together.
+- For getting the individual probability mass of each N-gram that did not occur then 
+$$P = \frac{N_1}{N . N_0}$$
+$N_0$ --->  Number of N-grams that were never seen in the training set.
+
+![[Pasted image 20230528143959.png]]
+
+-  Various toolkits only apply this formula for few initial values like when $c =$ $1$  to  $10$ .
+
+Suppose, if $V$ --> No of Unigrams in a corpus so there will be total  $V^2$   --> No of Bigrams
+Therefore,
+$$ N_0= V^2 - N_b$$
+$N_b$   -->  No of Bigrams that occur in corpus.
+
+Effective Count of each Bigram that do not occur in corpus after reallocation is
+$$ C^* = \frac {N_1}{N_0} = \frac{N_1}{V^2 - N_b} $$
+
+
+#### Absolute Discounting Interpolation
+
+![[Pasted image 20230528145855.png]]
+
+-  For  $c = 0$  and  $c = 1$, <font color = "red">this does not satisfy</font> .
+$$c^* = c - 0.75$$
+ For rest of  $c$  it gets really close to that value.
+
+
+![[Pasted image 20230528152009.png]]
+
+**$\lambda$ -**-> **Interpolation Weight  or Normalizing Constant** - Weight for maintaining the sum of all probabilities equal to 1.
+$d$  --> Discount (in this case it is 0.75).
+
+
+### Kneser - Ney  Smoothing
+
+-  <font color = "green">Intuition</font>  -->  We use $P_{continuation}(w)$ : "How likely is $w$ to appear as a novel continuation?" 
+ -  Novel Continuation means word that completes a bigram.
+ 
+![[Pasted image 20230528153649.png]]
+![[Pasted image 20230528153933.png]]
+
+-  We can now simply replace the $P_{unigram}(w)$ in Absolute Discounting Interpolation with $P_{continuation}(w)$ .
+-  We get,
+![[Pasted image 20230528154308.png]]
+
+-  And,
+![[Pasted image 20230528154440.png]]
+
+Here  $\frac{d}{c (w_{i-1})}$  is the normalized discount and   $|{w:c(w_{i-1}, w)}|$  is the number of word types that can follow $w_{i-1}$ .
+
+
+As we take higher N values in N-gram  the probability of N-gram becomes sparse.
+
+
