@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 3/Advanced Smoothing Models.md",
+                "file": "Week 3/2.   Combination of Language Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 3/Advanced Smoothing Models.md",
+                "file": "Week 3/2.   Combination of Language Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 3/Advanced Smoothing Models.md",
+                "file": "Week 3/2.   Combination of Language Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 3/Advanced Smoothing Models.md"
+                "file": "Week 3/2.   Combination of Language Models.md"
               }
             }
           }
@@ -148,31 +148,33 @@
   },
   "active": "a872fd841a328b2d",
   "lastOpenFiles": [
-    "Assets/Pasted image 20230528154440.png",
-    "Assets/Pasted image 20230528154308.png",
-    "Assets/Pasted image 20230528153933.png",
-    "Assets/Pasted image 20230528153831.png",
-    "Week 3/Advanced Smoothing Models.md",
-    "Assets/Pasted image 20230528153649.png",
-    "Assets/Pasted image 20230528152009.png",
-    "Assets/Pasted image 20230528145855.png",
-    "Assets/Pasted image 20230528143959.png",
-    "Week 2/Evaluation of Language Models.md",
-    "Week 2/Edit Distance.md",
-    "Week 2/Spelling Correction.md",
-    "Week 2/Smoothing.md",
+    "Assets/Pasted image 20230530232944.png",
+    "Week 3/1.  Good Turing and Kneser Ney Smoothing.md",
+    "Week 3/2.   Combination of Language Models.md",
+    "Week 2/8.  Smoothing.md",
+    "Week 2/6.  N-Gram Language Models.md",
+    "Assets/Pasted image 20230530231240.png",
+    "Assets/Pasted image 20230530231046.png",
+    "Assets/Pasted image 20230530231033.png",
+    "Assets/Pasted image 20230530230937.png",
+    "Assets/Pasted image 20230530225449.png",
+    "Assets/Pasted image 20230530225217.png",
+    "README.md",
+    "Week 1 Introduction/Untitled.md",
+    "Week 2/1. Spelling Correction.md",
+    "Week 2/7.  Evaluation of Language Models.md",
+    "Week 2/5.  Noisy Channel Model.md",
+    "Week 2/4.  Weighted Edit Distance.md",
+    "Week 2/3.  Edit Distance.md",
+    "Week 2/2. Spelling Errors.md",
+    "Assets/Pasted image 20230530224314.png",
+    "Assets/Pasted image 20230530224300.png",
+    "Assets/Pasted image 20230530220223.png",
+    "Assets/Pasted image 20230530214643.png",
     "Week 3",
-    "Assets/Pasted image 20230525134153.png",
-    "Pasted image 20230525133615.png",
-    "Assets/1 WNyDJ177qNDAkTPBDCGCYw.webp",
-    "Week 2/N-Gram Language Models.md",
-    "Week 2/Noisy Channel Model.md",
     "Assets",
     "Pasted image 20230522182428.png.md",
-    "Week 2/Spelling Errors.md",
     "Pasted image 20230522134338.png.md",
-    "Week 2/Weighted Edit Distance.md",
-    "Week 1 Introduction/Untitled.md",
     "Week 2",
     "Week 1 Introduction"
   ]
