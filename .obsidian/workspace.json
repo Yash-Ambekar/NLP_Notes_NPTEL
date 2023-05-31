@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 3/2.   Combination of Language Models.md",
+                "file": "Week 3/5.  Morphological Processing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 3/2.   Combination of Language Models.md",
+                "file": "Week 3/5.  Morphological Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 3/2.   Combination of Language Models.md",
+                "file": "Week 3/5.  Morphological Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 3/2.   Combination of Language Models.md"
+                "file": "Week 3/5.  Morphological Processing.md"
               }
             }
           }
@@ -148,29 +148,32 @@
   },
   "active": "a872fd841a328b2d",
   "lastOpenFiles": [
+    "Week 3/4. Computational Morphology.md",
+    "Week 3/5.  Morphological Processing.md",
+    "Assets/Pasted image 20230531192444.png",
+    "Assets/Pasted image 20230531192356.png",
+    "Assets/Pasted image 20230531192337.png",
+    "Assets/Pasted image 20230531191953.png",
+    "Assets/Pasted image 20230531191733.png",
+    "Assets/Pasted image 20230531191631.png",
+    "Week 3/1.  Topics covered in Week 3.md",
+    "Week 2/1. Topics Covered in Week 2.md",
+    "Untitled.md",
+    "Week 3/3.   Combination of Language Models.md",
+    "Week 3/2.  Good Turing and Kneser Ney Smoothing.md",
     "Assets/Pasted image 20230530232944.png",
-    "Week 3/1.  Good Turing and Kneser Ney Smoothing.md",
-    "Week 3/2.   Combination of Language Models.md",
     "Week 2/8.  Smoothing.md",
     "Week 2/6.  N-Gram Language Models.md",
     "Assets/Pasted image 20230530231240.png",
     "Assets/Pasted image 20230530231046.png",
     "Assets/Pasted image 20230530231033.png",
-    "Assets/Pasted image 20230530230937.png",
-    "Assets/Pasted image 20230530225449.png",
-    "Assets/Pasted image 20230530225217.png",
     "README.md",
     "Week 1 Introduction/Untitled.md",
-    "Week 2/1. Spelling Correction.md",
     "Week 2/7.  Evaluation of Language Models.md",
     "Week 2/5.  Noisy Channel Model.md",
     "Week 2/4.  Weighted Edit Distance.md",
     "Week 2/3.  Edit Distance.md",
     "Week 2/2. Spelling Errors.md",
-    "Assets/Pasted image 20230530224314.png",
-    "Assets/Pasted image 20230530224300.png",
-    "Assets/Pasted image 20230530220223.png",
-    "Assets/Pasted image 20230530214643.png",
     "Week 3",
     "Assets",
     "Pasted image 20230522182428.png.md",
