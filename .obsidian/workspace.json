@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 3/5.  Morphological Processing.md",
+                "file": "Week 3/6.  Finite - State Methods for Morphology.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 3/5.  Morphological Processing.md",
+                "file": "Week 3/6.  Finite - State Methods for Morphology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 3/5.  Morphological Processing.md",
+                "file": "Week 3/6.  Finite - State Methods for Morphology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 3/5.  Morphological Processing.md"
+                "file": "Week 3/6.  Finite - State Methods for Morphology.md"
               }
             }
           }
@@ -148,25 +148,27 @@
   },
   "active": "a872fd841a328b2d",
   "lastOpenFiles": [
-    "Week 3/4. Computational Morphology.md",
+    "Assets/Pasted image 20230606145924.png",
+    "Assets/Pasted image 20230606145136.png",
+    "Assets/Pasted image 20230606145117.png",
+    "Assets/Pasted image 20230606144531.png",
+    "Assets/Pasted image 20230606144355.png",
+    "Assets/Pasted image 20230606144142.png",
+    "Week 3/6.  Finite - State Methods for Morphology.md",
+    "Assets/Pasted image 20230606143158.png",
+    "Assets/Pasted image 20230606141648.png",
+    "Assets/Pasted image 20230606135010.png",
+    "Assets/Pasted image 20230606133546.png",
     "Week 3/5.  Morphological Processing.md",
-    "Assets/Pasted image 20230531192444.png",
-    "Assets/Pasted image 20230531192356.png",
-    "Assets/Pasted image 20230531192337.png",
-    "Assets/Pasted image 20230531191953.png",
-    "Assets/Pasted image 20230531191733.png",
-    "Assets/Pasted image 20230531191631.png",
+    "Assets/Pasted image 20230531213424.png",
+    "Week 3/4. Computational Morphology.md",
     "Week 3/1.  Topics covered in Week 3.md",
     "Week 2/1. Topics Covered in Week 2.md",
     "Untitled.md",
     "Week 3/3.   Combination of Language Models.md",
     "Week 3/2.  Good Turing and Kneser Ney Smoothing.md",
-    "Assets/Pasted image 20230530232944.png",
     "Week 2/8.  Smoothing.md",
     "Week 2/6.  N-Gram Language Models.md",
-    "Assets/Pasted image 20230530231240.png",
-    "Assets/Pasted image 20230530231046.png",
-    "Assets/Pasted image 20230530231033.png",
     "README.md",
     "Week 1 Introduction/Untitled.md",
     "Week 2/7.  Evaluation of Language Models.md",
