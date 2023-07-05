@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 4/3. Baum - Welch Algorithm.md",
+                "file": "Week 4/4.  Maximum Entropy Model for POS tagging.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 4/3. Baum - Welch Algorithm.md",
+                "file": "Week 4/4.  Maximum Entropy Model for POS tagging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 4/3. Baum - Welch Algorithm.md",
+                "file": "Week 4/4.  Maximum Entropy Model for POS tagging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 4/3. Baum - Welch Algorithm.md"
+                "file": "Week 4/4.  Maximum Entropy Model for POS tagging.md"
               }
             }
           }
@@ -148,8 +148,14 @@
   },
   "active": "8965b64a5c9bb8f8",
   "lastOpenFiles": [
-    "Week 1 Introduction/1. Conditional Probability.md",
     "Week 4/3. Baum - Welch Algorithm.md",
+    "Week 4/4.  Maximum Entropy Model for POS tagging.md",
+    "Assets/1024px-Mplwp_shannon_entropy.svg.png",
+    "Assets/Untitled 1.png",
+    "Assets/Untitled.png",
+    "Assets/Pasted image 20230705131552.png",
+    "Assets/Pasted image 20230703144228.png",
+    "Week 1 Introduction/1. Conditional Probability.md",
     "Week 4/2.  Viterbi Decoding Algorithm.md",
     "2023-06-28.md",
     "Week 2/5.  Noisy Channel Model.md",
@@ -169,11 +175,6 @@
     "Hidden Markov Models.md",
     "Assets/Pasted image 20230623212212.png",
     "Assets/Pasted image 20230623212026.png",
-    "Assets/Pasted image 20230623211934.png",
-    "Assets/Pasted image 20230623210811.png",
-    "Assets/Pasted image 20230623210806.png",
-    "Assets/Pasted image 20230623200848.png",
-    "Assets/Pasted image 20230623200750.png",
     "Week 3/5.  Morphological Processing.md",
     "Nothing.md",
     "Week 3/4. Computational Morphology.md",
@@ -183,10 +184,8 @@
     "Week 2/8.  Smoothing.md",
     "Week 2/7.  Evaluation of Language Models.md",
     "Week 2/6.  N-Gram Language Models.md",
-    "README.md",
     "Week 3",
     "Assets",
-    "Pasted image 20230522182428.png.md",
     "Week 2",
     "Week 1 Introduction"
   ]
