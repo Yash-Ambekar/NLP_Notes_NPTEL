@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 4/4.  Maximum Entropy Model for POS tagging.md",
+                "file": "Week 4/5.  Beam Search Algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73c524027eb1e382",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 5/1. Topics Covered in Week 5.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 4/4.  Maximum Entropy Model for POS tagging.md",
+                "file": "Week 5/1. Topics Covered in Week 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 4/4.  Maximum Entropy Model for POS tagging.md",
+                "file": "Week 5/1. Topics Covered in Week 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 4/4.  Maximum Entropy Model for POS tagging.md"
+                "file": "Week 5/1. Topics Covered in Week 5.md"
               }
             }
           }
@@ -146,44 +159,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8965b64a5c9bb8f8",
+  "active": "73c524027eb1e382",
   "lastOpenFiles": [
-    "Week 4/3. Baum - Welch Algorithm.md",
+    "Week 4/1. Topics covered in Week 4.md",
+    "Week 5/1. Topics Covered in Week 5.md",
+    "Week 4/6. Conditional Random Fields.md",
+    "Week 5",
+    "Week 4/5.  Beam Search Algorithm.md",
     "Week 4/4.  Maximum Entropy Model for POS tagging.md",
-    "Assets/1024px-Mplwp_shannon_entropy.svg.png",
-    "Assets/Untitled 1.png",
-    "Assets/Untitled.png",
-    "Assets/Pasted image 20230705131552.png",
-    "Assets/Pasted image 20230703144228.png",
-    "Week 1 Introduction/1. Conditional Probability.md",
-    "Week 4/2.  Viterbi Decoding Algorithm.md",
-    "2023-06-28.md",
-    "Week 2/5.  Noisy Channel Model.md",
+    "Week 2/7.  Evaluation of Language Models.md",
+    "Assets/Pasted image 20230708152131.png",
+    "Assets/Pasted image 20230708150835.png",
+    "Assets/Pasted image 20230707144951.png",
+    "Assets/Pasted image 20230707144910.png",
+    "Week 2/5.  Noisy Channel Model for Spelling Errors.md",
+    "Week 2/5.  Noisy Channel Model for Spelling Errors 1.md",
+    "Week 2/1. Topics Covered in Week 2.md",
+    "Assets/Pasted image 20230707124234.png",
+    "Assets/Pasted image 20230522185017.png",
+    "Assets/Pasted image 20230705204631.png",
+    "Week 2/4.  Weighted Edit Distance.md",
     "Week 2/3.  Edit Distance.md",
     "Week 2/2. Spelling Errors.md",
+    "Assets/Pasted image 20230522194935.png",
+    "Assets/Pasted image 20230522183158.png",
+    "Week 4/3. Baum - Welch Algorithm.md",
+    "Week 4/2.  Viterbi Decoding Algorithm.md",
+    "Week 1 Introduction/1. Conditional Probability.md",
+    "Assets/1024px-Mplwp_shannon_entropy.svg.png",
+    "2023-06-28.md",
     "Week 3/2.  Good Turing and Kneser Ney Smoothing.md",
     "Week 3/7.  Part of Speech tagging (POS tagging).md",
-    "Assets/Pasted image 20230627165400.png",
-    "Assets/Pasted image 20230627162431.png",
-    "Assets/Pasted image 20230627162119.png",
     "Week 3/8.  Hidden Markov Models for POS tagging.md",
-    "Week 4/1. Topics covered in Week 4.md",
     "Week 4",
     "Week 3/1.  Topics covered in Week 3.md",
     "Week 3/6.  Finite - State Methods for Morphology.md",
     "[[8..md",
     "Hidden Markov Models.md",
-    "Assets/Pasted image 20230623212212.png",
-    "Assets/Pasted image 20230623212026.png",
     "Week 3/5.  Morphological Processing.md",
     "Nothing.md",
     "Week 3/4. Computational Morphology.md",
-    "Week 3/3.   Combination of Language Models.md",
-    "Week 2/1. Topics Covered in Week 2.md",
-    "Week 2/4.  Weighted Edit Distance.md",
-    "Week 2/8.  Smoothing.md",
-    "Week 2/7.  Evaluation of Language Models.md",
-    "Week 2/6.  N-Gram Language Models.md",
     "Week 3",
     "Assets",
     "Week 2",
