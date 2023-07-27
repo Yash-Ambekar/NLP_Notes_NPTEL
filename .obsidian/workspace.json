@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1 Introduction/1. Conditional Probability.md",
+                "file": "Week 3/3.   Combination of Language Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1 Introduction/1. Conditional Probability.md",
+                "file": "Week 3/3.   Combination of Language Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 1 Introduction/1. Conditional Probability.md",
+                "file": "Week 3/3.   Combination of Language Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1 Introduction/1. Conditional Probability.md"
+                "file": "Week 3/3.   Combination of Language Models.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "7b03c7c6d71a8a48",
   "lastOpenFiles": [
+    "Week 3/2.  Good Turing and Kneser Ney Smoothing.md",
+    "Week 2/8.  Smoothing.md",
+    "Week 2/7.  Evaluation of Language Models.md",
+    "Week 1 Introduction/1. Conditional Probability.md",
     "Week 5/3. Syntax Parsing.md",
     "Week 5/2.  Introduction to Syntax.md",
     "Week 1 Introduction/2. Context Free Grammar.md",
@@ -161,7 +165,6 @@
     "Week 4/6. Conditional Random Fields.md",
     "Week 5",
     "Week 4/4.  Maximum Entropy Model for POS tagging.md",
-    "Week 2/7.  Evaluation of Language Models.md",
     "Assets/Pasted image 20230708152131.png",
     "Assets/Pasted image 20230708150835.png",
     "Assets/Pasted image 20230707144951.png",
@@ -179,13 +182,10 @@
     "Assets/Pasted image 20230522183158.png",
     "Week 4/3. Baum - Welch Algorithm.md",
     "Week 4/2.  Viterbi Decoding Algorithm.md",
-    "Week 1 Introduction/1. Conditional Probability.md",
     "2023-06-28.md",
-    "Week 3/2.  Good Turing and Kneser Ney Smoothing.md",
     "Week 3/8.  Hidden Markov Models for POS tagging.md",
     "Week 4",
     "Week 3/1.  Topics covered in Week 3.md",
-    "Week 3/6.  Finite - State Methods for Morphology.md",
     "Week 3",
     "Assets",
     "Week 2",
